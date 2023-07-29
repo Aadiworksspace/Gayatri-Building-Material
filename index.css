@@ -491,7 +491,7 @@
     font-size: 14px;
   }
   .rectangle-parent2 {
-    position: absolute;
+    position: fixed;
     width: 100%;
     top: 0;
     right: 0;
